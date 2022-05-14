@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ndukwe Armstrong💪🏾</h1>
-<h3 align="center">I build softwares ✊🏻 I enjoy lead roles 🌩Pick interest in future tech like AI & XR⛈</h3>
+<h3 align="center">I build softwares ✊🏻 I enjoy lead roles ⛈ Pick interest in future tech like AI & XR</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armstrong99" alt="armstrong99" /></a> </p>
 
@@ -11,9 +11,7 @@
 
 - 💬 Ask me about **react, typescript, nodejs, algo's & DS's**
 
-- 📫 How to reach me **armstrong.ndukwe@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/ndukwearmstrong/](https://www.linkedin.com/in/ndukwearmstrong/)
+- 📫 How to reach me <a href="mailto:armstrong.ndukwe@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="ai_lift" height="30" width="40" /></a>.  
 
 - ⚡ Fun fact **I prefer cereals before milk 🙂**
 
