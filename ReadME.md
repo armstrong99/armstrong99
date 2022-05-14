@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **swift, dart & AI with python**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/armstrong99?tab=repositories" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/github-icon/github-icon-4.jpg" alt="ai_lift" height="20" width="30" /></a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/armstrong99?tab=repositories" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/github-icon/github-icon-4.jpg" alt="ai_lift" height="20" width="20" /></a>
 
 - 📝 I regularly write articles on <a href="https://medium.com/@ndukwearmstrong" target="blank"><img align="center" src="https://miro.medium.com/max/1146/1*jcY-BmXNNrWTJCOchzqJrQ.jpeg" alt="ai_lift" height="20" width="30" /></a>
 
 - 💬 Ask me about **react, typescript, nodejs, algo's & DS's**
 
-- 📫 How to reach me <a href="mailto:armstrong.ndukwe@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="ai_lift" height="20" width="20" /></a>  
+- 📫 How to reach me <a href="mailto:armstrong.ndukwe@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="ai_lift" height="15" width="20" /></a>  
 
 - ⚡ Fun fact **I prefer cereals before milk 🙂**
 
