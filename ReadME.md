@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ndukwe Armstrong💪🏾</h1>
-<h3 align="center">I build softwares ✊🏻 I enjoy lead roles ⛈ Pick interest in future tech like AI & XR</h3>
+<h3 align="center">I build softwares ✊🏻 I enjoy lead roles ⛈ I pick interest in future tech like AI & XR</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armstrong99" alt="armstrong99" /></a> </p>
 
 - 🌱 I’m currently learning **swift, dart & AI with python**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/armstrong99?tab=repositories" target="blank"><img align="center" src="https://library.kissclipart.com/20180919/ige/kissclipart-github-clipart-github-computer-icons-9d38dd522bbc1934.jpg" alt="ai_lift" height="20" width="30" /></a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/armstrong99?tab=repositories" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/github-icon/github-icon-4.jpg" alt="ai_lift" height="20" width="30" /></a>
 
 - 📝 I regularly write articles on <a href="https://medium.com/@ndukwearmstrong" target="blank"><img align="center" src="https://miro.medium.com/max/1146/1*jcY-BmXNNrWTJCOchzqJrQ.jpeg" alt="ai_lift" height="20" width="30" /></a>
 
