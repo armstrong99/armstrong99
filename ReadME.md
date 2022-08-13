@@ -10,7 +10,7 @@
 
 <p align="center">
  
-- 🌱 I’m currently learning **swift, dart & AI with python**
+- 🌱 I’m currently learning **how engineering works!!!**
 
 - 👨‍💻 All of my projects are available at  <a href="https://github.com/armstrong99?tab=repositories" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/github-icon/github-icon-4.jpg" alt="ai_lift" height="20" width="20" /></a>
 
