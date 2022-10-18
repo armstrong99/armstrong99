@@ -10,17 +10,17 @@
 
 <p align="center">
  
-- 🌱 I’m currently learning **how engineering works!!!**
+- 🌱 I’m currently learning **how engineering works under the hood!!!**
 
 - 👨‍💻 All of my projects are available at  <a href="https://github.com/armstrong99?tab=repositories" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/github-icon/github-icon-4.jpg" alt="ai_lift" height="20" width="20" /></a>
 
 - 📝 I regularly write articles on <a href="https://medium.com/@ndukwearmstrong" target="blank"><img align="center" src="https://miro.medium.com/max/1146/1*jcY-BmXNNrWTJCOchzqJrQ.jpeg" alt="ai_lift" height="20" width="30" /></a>
 
-- 💬 Ask me about **frontend(<i style="color:rgba(229, 177, 163, 1)">_react,vue,angular..._</i>), backend(<i style="color:rgba(229, 177, 163, 1)">_node, python..._</i>), algo's & DS's(<i style="color:rgba(229, 177, 163, 1)">graphs, trees, dp's, windows...</i>), AI/ML(<i style="color:rgba(229, 177, 163, 1)">_python, TF..._</i>), engineering(<i style="color:rgba(229, 177, 163, 1)">_robotics, electronics, matlab, aeronautics..._</i>)**
+- 💬 Ask me about **frontend(<i style="color:rgba(229, 177, 163, 1)">_react,vue,angular, web vitals..._</i>), backend(<i style="color:rgba(229, 177, 163, 1)">_node, python..._</i>), algo's & DS's(<i style="color:rgba(229, 177, 163, 1)">graphs, trees, dp's, windows...</i>), AI/ML(<i style="color:rgba(229, 177, 163, 1)">_python, TF..._</i>), engineering(<i style="color:rgba(229, 177, 163, 1)">_robotics, electronics, matlab..._</i>)**
 
 - 📫 How to reach me <a href="mailto:armstrong.ndukwe@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="ai_lift" height="15" width="20" /></a>  
 
-- ⚡ Fun fact **I prefer cereals before milk 🙂**
+- ⚡ Fun fact **I pour cereals before milk 🙂**
 
 </p>
 
